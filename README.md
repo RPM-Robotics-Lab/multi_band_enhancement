@@ -34,10 +34,10 @@ If you want to use this code, please cite our publication below.
 
 Run 'demo.m' script to get sample results. There are several sample haze images in _images/fattal_ folder. Once the process is done, the output image and transmission map will be plotted.
 
-### Author
+## Author
 
 Younggun Cho (yg.cho@kaist.ac.kr)
 
-### License
+## License
 
 The software code of the non-local image dehazing algorithm is provided for non-commercial use under the attached LICENSE.md
