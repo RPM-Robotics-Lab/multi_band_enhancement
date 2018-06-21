@@ -32,7 +32,7 @@ If you want to use this code, please cite our publication below.
 
 ### Demo
 
-Just run 'demo.m' script to get sample results. There are several sample haze images in _images/fattal_ folder. Once the process is done, the output image and transmission map will be plotted.
+Run 'demo.m' script to get sample results. There are several sample haze images in _images/fattal_ folder. Once the process is done, the output image and transmission map will be plotted.
 
 ### Author
 
