@@ -1,7 +1,7 @@
 # Multi-band-enhancement
 
 <p align="center">
-  <img width="40%" src="sample_figures/major_fig.png"/>
+  <img width="60%" src="sample_figures/major_fig.png"/>
 </p>
 
 This is the repository for the paper 'Model Assisted Multi-band Fusion for Single Image Enhancement and Applications to Robot Vision'.
@@ -24,7 +24,7 @@ If you want to use this code, please cite our publication below.
 ## Usage
 
 <p align="center">
-  <img width="80%" src="sample_figures/quali_comparison3_small.jpg"/>
+  <img width="90%" src="sample_figures/quali_comparison3_small.jpg"/>
 </p>
 
 ### Requirements
