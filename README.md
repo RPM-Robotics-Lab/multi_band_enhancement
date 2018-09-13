@@ -40,4 +40,4 @@ Younggun Cho (yg.cho@kaist.ac.kr)
 
 ## License
 
-The software code of the non-local image dehazing algorithm is provided for non-commercial use under the attached LICENSE.md
+The software code of the algorithm is provided for non-commercial use under the attached LICENSE.md
