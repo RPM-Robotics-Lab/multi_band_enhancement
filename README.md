@@ -1,4 +1,4 @@
-# Multi-band-enhancement
+# Multi-band-enhancement (Dehaznig)
 
 <p align="center">
   <img width="60%" src="sample_figures/major_fig.png"/>
